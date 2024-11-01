@@ -1,0 +1,22 @@
+#wpbody-content > * {
+  display: none;
+}
+#wpbody-content #root {
+  display: block;
+}
+#wpcontent {
+  padding-left: 0 !important;
+}
+#wpfooter {
+  display: none;
+}
+#wpwrap {
+  height: 100%;
+}
+#wpbody {
+  height: 100%;
+}
+#wpbody-content {
+  padding-bottom: 0px;
+  height: 100%;
+}
